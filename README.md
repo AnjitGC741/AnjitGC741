@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel,Php,React**
 
-- 💬 Ask me about **C,C++,Html,Css,Php,Javascript**
+- 💬 Ask me about **C,C++,Html,Css,Php,Javascript,React**
 
 - 📫 How to reach me **gcanjit741@gmail.com**
 
