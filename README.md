@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjitgc741&label=Profile%20views&color=0e75b6&style=flat" alt="anjitgc741" /> </p>
 
-- 🌱 I’m currently learning **Laravel,Php,React**
+- 🌱 I’m currently learning **Asp.Net,Angular**
 
-- 💬 Ask me about **C,C++,Html,Css,Php,Javascript,React**
+- 💬 Ask me about **C#,Asp.Net,C,C++,Html,Css,Php,Javascript,React**
 
 - 📫 How to reach me **gcanjit741@gmail.com**
 
